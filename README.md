@@ -75,6 +75,12 @@ print(list_of_nums)
 ```
 
 ## Output:
+## selection sort 
+![Screenshot 2023-12-29 212328](https://github.com/Kishorerz/Sorting-Algorithm/assets/144451216/d0311a27-e812-4a5e-8f85-27b6ccbc41a2)
+
+## insertion sort
+
+![Screenshot 2023-12-29 212338](https://github.com/Kishorerz/Sorting-Algorithm/assets/144451216/2e29c710-adca-4258-8c75-01df00881ffb)
 
 
 ## Result:
